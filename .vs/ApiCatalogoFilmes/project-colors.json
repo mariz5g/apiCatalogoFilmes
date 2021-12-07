@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb1b19b4-8a54-4d5f-95f5-f6f137e08102": {
+      "ProjectGuid": "eb1b19b4-8a54-4d5f-95f5-f6f137e08102",
+      "DisplayName": "ApiCatalogoFilmes",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
